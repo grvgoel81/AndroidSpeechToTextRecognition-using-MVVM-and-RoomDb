@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidSpeechToTextRecognition</string>
+    <string name="update">Update</string>
+</resources>
